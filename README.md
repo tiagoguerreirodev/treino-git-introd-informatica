@@ -1,3 +1,2 @@
-<!-- ##treino-git-introd-informatica -->
-
-#Treino - Git - introdução a Informática
+##treino-git-introd-informatica
+Tentei consertar mas não deu, me ajuda filipe
