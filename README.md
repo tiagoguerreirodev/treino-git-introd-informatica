@@ -1,1 +1,3 @@
-##treino-git-introd-informatica
+<!-- ##treino-git-introd-informatica -->
+
+#Treino - Git - introdução a Informática
